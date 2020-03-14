@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "851621454653",
+    "firebase_url": "https://mapify-270710.firebaseio.com",
+    "project_id": "mapify-270710",
+    "storage_bucket": "mapify-270710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851621454653:android:6482c2f155c6077717db54",
+        "android_client_info": {
+          "package_name": "be.ehb.mapify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851621454653-3593h25s7g5l2392n176n7fi3qpk4l2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "be.ehb.mapify",
+            "certificate_hash": "a5946ac175d4c5d3028fa7f08cc518961fe0af20"
+          }
+        },
+        {
+          "client_id": "851621454653-5pe6kvm1dkc5k99bqieltt2usc4vbiad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2tM3qR9_Bwn0ict2FQjGIJ1VURKcS6Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851621454653-5pe6kvm1dkc5k99bqieltt2usc4vbiad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
